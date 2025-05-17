@@ -1,5 +1,4 @@
 <?php
-require_once 'config.php';
 require_once 'db.php';
 
 function register_user($email, $password) {

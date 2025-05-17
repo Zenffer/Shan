@@ -1,6 +1,6 @@
-<?php
-require_once 'config.php';
-require_once 'auth.php';
+    <?php
+    require_once 'db.php';
+    require_once 'auth.php';
 
 $error = '';
 $success = '';
